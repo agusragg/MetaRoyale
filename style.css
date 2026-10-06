@@ -1,0 +1,22 @@
+body {
+    background: #0F2745;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+nav {
+    background: #16355d;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    margin: 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+h1 {
+    color: gold;
+}
